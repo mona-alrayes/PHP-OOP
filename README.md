@@ -1,2 +1,4 @@
 # PHP-OOP
-Here is Some examples made in php Object Oriented Programming 
+Here is example about cars information made in php Object Oriented Programming
+it is a form that takes input from user and print it back in other page if the info is valid 
+
